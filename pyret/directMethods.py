@@ -294,7 +294,7 @@ def tik_fft(B, PSF, center=None, alpha=None,sigma=None):
     xhat = bhat / D
     xhat = reshape(asmatrix(xhat), shape(B), 'f')
     X = real(ifft2(xhat))
-    return X,alpha
+    return X
 
 
 def tsvd_sep(B, PSF, center=None, tol=None, BC='zero'):
