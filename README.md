@@ -13,3 +13,5 @@ To open, run:
 ```
 ipython notebook --pylab=inline
 ```
+
+and navigate to the presentation notebook, `Inverse probs.ipynb`.
