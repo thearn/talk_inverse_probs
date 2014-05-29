@@ -1,6 +1,12 @@
 A short talk on discrete ill-posed inverse problems.
 
-Requires IPython notebook, with numpy, scipy, and matplotlib.
+Requires Python 2.7 or higher, with IPython notebook, numpy, scipy, and matplotlib.
+
+To install Python dependancies, run:
+
+```
+pip install -r requirements.txt
+```
 
 To open, run:
 
