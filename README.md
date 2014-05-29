@@ -1,8 +1,9 @@
 A short talk on discrete ill-posed inverse problems.
 
-To open:
+Requires IPython notebook, with numpy, scipy, and matplotlib.
 
-bash
+To open, run:
+
 ```
 ipython notebook --pylab=inline
 ```
